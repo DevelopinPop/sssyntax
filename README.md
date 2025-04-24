@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 <html>
 <head>Hello!</head>
 <h1> Hello World! </h1>
@@ -14,30 +14,30 @@ and I’m gonna wint (lint) y‑wuwwr code‑bite! o((>ω< ))o 🎀✨
 
 I’m suuuuuper good at:
 
-- 🐉 Gweemwin (gremlin) ✨
+⟡ 🐉 Gweemwin (gremlin) ✨
 
-- 🔧 wev & pwn main (rev & pwn) 🔥
+✦ 🔧 wev & pwn main (rev & pwn) 🔥
 
-- 🦈 I wuv Wiweswhawk! (wireshark) 🌊
+⟡ 🦈 I wuv Wiweswhawk! (wireshark) 🌊
 
-- 🐍 Pythyon 3 <3 🍰
+✦ 🐍 Pythyon 3 <3 🍰
 
-- 🇨🇳 H1 Chinese 🌸
+⟡ 🇨🇳 H1 Chinese 🌸
 
-- 🔄 Sowt2 (sort2) 🌀
+✦ 🔄 Sowt2 (sort2) 🌀
 
-- 🍪 code‑bite nom nom o((>w< ))o 🍪❤️
+⟡ 🍪 code‑bite nom nom o((>w< ))o 🍪❤️
 
-- UwU!! ✧(>o<)/✧
+✦ UwU!! ✧(>o<)/✧
 
-- i luv chinese >/////<
+⟡ i luv chinese >/////<
 
-- i'm cuwwently lwearning uwu langwage >w<
+✦ i'm cuwwently lwearning uwu langwage >w<
 
-- ow úwuv ówü ûw
+⟡ ow úwuv ówü ûw
 
-- meoewmeowmeowmewowmeowmeowmeow
+✦ meoewmeowmeowmewowmeowmeowmeow
+
 :33333333
 x3
 o((>w< ))o
--->
